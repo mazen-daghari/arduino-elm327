@@ -57,6 +57,7 @@ SQLite Database: Stores engine data for historical analysis and visualization.
 Summary:
 --
 This project provides a comprehensive real-time monitoring system for car engine parameters using OBD-II data. The combination of Arduino for data acquisition and PyQt5 with Matplotlib for data visualization ensures an interactive and informative user interface. This setup can be used for diagnostic purposes, performance monitoring, or educational demonstrations.
+
 Licence (MIT)
 --
 
